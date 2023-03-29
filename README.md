@@ -17,3 +17,9 @@ The data was ran on three seperate random states, each on three different kernel
 ![poly kernel on split 1](https://github.com/dgambone3/CSC_6850-MachineLearning-AssignmentThree/blob/main/images/final_poly.png)
 
 ![rbf kernel on split 1](https://github.com/dgambone3/CSC_6850-MachineLearning-AssignmentThree/blob/main/images/final_rbf.png)
+
+### Chosen Results
+![chosen results](https://github.com/dgambone3/CSC_6850-MachineLearning-AssignmentThree/blob/main/images/chosen_results.png)
+
+### Computed Results
+![computed results](https://github.com/dgambone3/CSC_6850-MachineLearning-AssignmentThree/blob/main/images/computed%20results.png)
