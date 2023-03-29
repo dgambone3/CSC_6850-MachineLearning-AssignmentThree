@@ -11,6 +11,7 @@ The dataset was sourced from Kaggle, and can be found [here](https://www.kaggle.
 ## Analysis
 The data was ran on three seperate random states, each on three different kernels. The goal was to determine which kernel was best for each split, and to ultimaltely pick a single best model. It was concluded that the linear model was best for two of the folds, and RBF was best for the final fold. The models were analyzed based on their statistical metrics, confusion matrix, and learning curves. Examples of data output from the first split can be found below along with the final results. 
 
+## Example Results
 ![linear kernel on split 1](https://github.com/dgambone3/CSC_6850-MachineLearning-AssignmentThree/blob/main/images/final_linear.png)
 
 ![poly kernel on split 1](https://github.com/dgambone3/CSC_6850-MachineLearning-AssignmentThree/blob/main/images/final_poly.png)
